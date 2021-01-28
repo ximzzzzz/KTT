@@ -20,5 +20,5 @@ all of the sensor data stored in KTT security center from 2018 to 2019
 
 
 
-
+![model_structure.JPG](https://github.com/ximzzzzz/KTT/blob/master/visualize/model_structure.JPG?raw=true)
 
